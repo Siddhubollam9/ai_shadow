@@ -123,7 +123,6 @@ PyJWT==2.10.1
 pynput==1.8.1
 pyparsing==3.2.1
 pyphen==0.17.2
-pypiwin32==223
 PyRect==0.2.0
 pytest==8.3.5
 python-dateutil==2.9.0.post0
